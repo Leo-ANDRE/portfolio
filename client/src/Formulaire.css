@@ -1,0 +1,20 @@
+#formulaire {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+#formulaire .titre {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#formulaire .form {
+  padding-left: 30%;
+  padding-right: 30%;
+}
+
+#formulaire .title {
+  margin-bottom: 4%;
+}

@@ -1,0 +1,12 @@
+#formations {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#formations .title {
+  margin-bottom: 4%;
+}

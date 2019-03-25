@@ -1,0 +1,14 @@
+#langages {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  background-image: linear-gradient(to bottom, #333, #2f3833, #2d413e, #2a494d, #2c505e);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#langages .title {
+  color: white;
+  margin-bottom: 4%;
+}
